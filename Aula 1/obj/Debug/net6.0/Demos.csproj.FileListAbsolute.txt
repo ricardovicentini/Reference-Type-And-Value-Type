@@ -1,0 +1,32 @@
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\bin\Debug\net6.0\Demos.exe
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\bin\Debug\net6.0\Demos.deps.json
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\bin\Debug\net6.0\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\bin\Debug\net6.0\ref\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\bin\Debug\net6.0\Demos.pdb
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.GlobalUsings.g.cs
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\ref\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.pdb
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\bin\Debug\net6.0\Demos.exe
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\bin\Debug\net6.0\Demos.deps.json
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\bin\Debug\net6.0\Demos.runtimeconfig.json
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\bin\Debug\net6.0\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\bin\Debug\net6.0\ref\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\bin\Debug\net6.0\Demos.pdb
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.GlobalUsings.g.cs
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\ref\Demos.dll
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.pdb
+D:\Docs\Treinamentos\Dio\Reference and Value Types\src\Demos\Aula 1\obj\Debug\net6.0\Demos.genruntimeconfig.cache
